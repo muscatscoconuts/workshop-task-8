@@ -1,1 +1,4 @@
 # workshop-task-8
+the url for this project:https://muscatscoconuts.github.io/workshop-task-8/
+# workshop task
+I decided to use the joke API and play with it. what i wanted to do was make a sketch where the background would changle to a relevant image depending on the category of the joke (christmas, programming etc.) however this proved to be difficult, i think because there wasn't a numerical value for the category so every time i tries to make a loop statement it wouldn't really work. i would like to go back and try again some time and figure out why exactly it wasn't working. i decided to just make the category part of the text displayed on the sketch, and bound the punchline to mouse position so you would have to reveal the punchline yourself by moving the mouse. that was satisfactory.
